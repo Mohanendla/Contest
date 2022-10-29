@@ -1,0 +1,36 @@
+
+ *{
+    box-sizing: border-box;
+    background-color: rgb(184, 188, 188);
+   }
+   
+   body{
+    background-color: rgb(184, 188, 188);
+       margin: 0;
+      font-family: var(--bs-font-sans-serif);
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      
+   }
+   .registration-form{
+    width: 600px;
+    margin: 150px auto;
+    border-radius: 10px;
+    color: black;
+    padding: 20px;
+    box-shadow: 0px 0px 1px black; 
+    backdrop-filter: saturate(80%) blur(5px);
+    
+  }
+  
+
+
+  
+/*   
+   .valid-feedback, .invalid-feedback, .skill-valid{
+    display: block;
+  }  */
+  
+  
